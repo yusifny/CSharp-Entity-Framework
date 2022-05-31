@@ -1,0 +1,4 @@
+/Users/yusifnazarbayov/Desktop/CSharp-Entity-Framework/CSharp-Entity-Framework/obj/Debug/netcoreapp3.1/CSharp-Entity-Framework.csprojAssemblyReference.cache
+/Users/yusifnazarbayov/Desktop/CSharp-Entity-Framework/CSharp-Entity-Framework/obj/Debug/netcoreapp3.1/CSharp-Entity-Framework.AssemblyInfoInputs.cache
+/Users/yusifnazarbayov/Desktop/CSharp-Entity-Framework/CSharp-Entity-Framework/obj/Debug/netcoreapp3.1/CSharp-Entity-Framework.AssemblyInfo.cs
+/Users/yusifnazarbayov/Desktop/CSharp-Entity-Framework/CSharp-Entity-Framework/obj/Debug/netcoreapp3.1/CSharp-Entity-Framework.csproj.CoreCompileInputs.cache
